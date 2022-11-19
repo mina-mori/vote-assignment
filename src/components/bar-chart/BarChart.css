@@ -1,0 +1,14 @@
+.bar-chart-page {
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 90%;
+}
+.bar-chart-page h1 {
+  word-break: break-all;
+}
+
+.bar-chart-page .graph {
+  width: 90%;
+}

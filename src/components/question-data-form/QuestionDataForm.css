@@ -1,0 +1,61 @@
+.alert-error {
+  padding: 1rem;
+  box-sizing: border-box;
+  color: black;
+  background-color: #ffacac;
+  border: 1px solid red;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+.alert-info {
+  padding: 1rem;
+  box-sizing: border-box;
+  color: black;
+  background-color: #e4e4ff;
+  border: 1px solid blue;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+.alert-success {
+  padding: 1rem;
+  box-sizing: border-box;
+  color: black;
+  background-color: rgb(202, 255, 202);
+  border: 1px solid green;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+.error-input {
+  border: 1px solid red !important;
+}
+.values-form {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 90%;
+}
+.values-form .question-input {
+  width: 85%;
+}
+.values-form button {
+  min-width: 7rem;
+}
+.entered-values {
+  margin-top: 2rem;
+}
+.entered-values .value-section {
+  margin-bottom: 0.5rem;
+  align-items: center;
+}
+
+.value-section .value-text {
+  width: 85%;
+}
+
+.values-footer {
+  margin-top: 5rem;
+}
+.values-footer .positble-answer {
+  width: 80%;
+}

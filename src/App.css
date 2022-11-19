@@ -1,0 +1,10 @@
+.voting-header {
+  padding: 0 2rem;
+}
+.voting {
+  padding: 0 2rem;
+  display: flex;
+}
+.voting .voting-section {
+  border: 1px solid lightgray;
+}
